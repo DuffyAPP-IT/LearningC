@@ -7,6 +7,10 @@ void sort(int bubble[]){
             bubble[i+1]=bubble[i];
             tempnum = bubble[i+1];
         }
+        for(int i=0; i<5;i++){
+            printf("%d", bubble[i]);
+        }
+        printf("\n");
     }
 }
 
@@ -14,8 +18,5 @@ void sort(int bubble[]){
 int main() {
     int bubbles[]  = {1,4,7,2,3};
     sort(bubbles);
-    for(int i=0; i<5;i++){
-        printf("%d", bubbles[i]);
-    }
     return 0;
 }

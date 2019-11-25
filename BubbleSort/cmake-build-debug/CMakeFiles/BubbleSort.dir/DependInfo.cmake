@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Volumes/JDT5/Projects/Learning C/BubbleSort/main.c" "/Volumes/JDT5/Projects/Learning C/BubbleSort/cmake-build-debug/CMakeFiles/BubbleSort.dir/main.c.o"
+  "/Volumes/JDT5/Projects/Learning C/GithubSync/BubbleSort/main.c" "/Volumes/JDT5/Projects/Learning C/GithubSync/BubbleSort/cmake-build-debug/CMakeFiles/BubbleSort.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

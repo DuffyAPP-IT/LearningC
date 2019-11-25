@@ -1,4 +1,4 @@
-"/Users/jamesduffy/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Volumes/JDT5/Projects/Learning C/BubbleSort"
+"/Users/jamesduffy/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Volumes/JDT5/Projects/Learning C/GithubSync/BubbleSort"
 -- The C compiler identification is AppleClang 10.0.0.10001044
 -- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc
 -- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc -- works
@@ -8,4 +8,4 @@
 -- Detecting C compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Volumes/JDT5/Projects/Learning C/BubbleSort/cmake-build-debug
+-- Build files have been written to: /Volumes/JDT5/Projects/Learning C/GithubSync/BubbleSort/cmake-build-debug

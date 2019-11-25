@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Volumes/JDT5/Projects/Learning C/BubbleSort/cmake-build-debug"/>
+				<Option working_dir="/Volumes/JDT5/Projects/Learning C/GithubSync/BubbleSort/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Volumes/JDT5/Projects/Learning C/BubbleSort/cmake-build-debug"/>
+				<Option working_dir="/Volumes/JDT5/Projects/Learning C/GithubSync/BubbleSort/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Volumes/JDT5/Projects/Learning C/BubbleSort/cmake-build-debug"/>
+				<Option working_dir="/Volumes/JDT5/Projects/Learning C/GithubSync/BubbleSort/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="BubbleSort">
-				<Option output="/Volumes/JDT5/Projects/Learning C/BubbleSort/cmake-build-debug/BubbleSort" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Volumes/JDT5/Projects/Learning C/BubbleSort/cmake-build-debug"/>
+				<Option output="/Volumes/JDT5/Projects/Learning C/GithubSync/BubbleSort/cmake-build-debug/BubbleSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/JDT5/Projects/Learning C/GithubSync/BubbleSort/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 BubbleSort"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 BubbleSort"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="BubbleSort/fast">
-				<Option output="/Volumes/JDT5/Projects/Learning C/BubbleSort/cmake-build-debug/BubbleSort" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Volumes/JDT5/Projects/Learning C/BubbleSort/cmake-build-debug"/>
+				<Option output="/Volumes/JDT5/Projects/Learning C/GithubSync/BubbleSort/cmake-build-debug/BubbleSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/JDT5/Projects/Learning C/GithubSync/BubbleSort/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,17 +73,17 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 BubbleSort/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 BubbleSort/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/BubbleSort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Volumes/JDT5/Projects/Learning C/BubbleSort/main.c">
+		<Unit filename="/Volumes/JDT5/Projects/Learning C/GithubSync/BubbleSort/main.c">
 			<Option target="BubbleSort"/>
 		</Unit>
-		<Unit filename="/Volumes/JDT5/Projects/Learning C/BubbleSort/CMakeLists.txt">
+		<Unit filename="/Volumes/JDT5/Projects/Learning C/GithubSync/BubbleSort/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
