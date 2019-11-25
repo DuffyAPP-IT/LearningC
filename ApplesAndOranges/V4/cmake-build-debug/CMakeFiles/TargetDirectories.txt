@@ -1,3 +1,3 @@
-/Volumes/JDT5/Projects/Learning C/ApplesAndOranges/V4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Volumes/JDT5/Projects/Learning C/ApplesAndOranges/V4/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Volumes/JDT5/Projects/Learning C/ApplesAndOranges/V4/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir
+/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V4/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir

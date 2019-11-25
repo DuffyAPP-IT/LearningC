@@ -6,7 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/JDT5/Projects/Learning C/ApplesAndOranges/V4/main.c
+/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V4/applerange.c
 stdio.h
 -
+
+/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V4/appleset.c
+
+/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V4/main.c
+stdio.h
+-
+
+/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V4/orangeset.c
 

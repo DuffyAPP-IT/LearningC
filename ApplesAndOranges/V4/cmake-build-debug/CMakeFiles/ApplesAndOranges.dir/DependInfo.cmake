@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Volumes/JDT5/Projects/Learning C/ApplesAndOranges/V4/applerange.c" "/Volumes/JDT5/Projects/Learning C/ApplesAndOranges/V4/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/applerange.c.o"
-  "/Volumes/JDT5/Projects/Learning C/ApplesAndOranges/V4/appleset.c" "/Volumes/JDT5/Projects/Learning C/ApplesAndOranges/V4/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/appleset.c.o"
-  "/Volumes/JDT5/Projects/Learning C/ApplesAndOranges/V4/main.c" "/Volumes/JDT5/Projects/Learning C/ApplesAndOranges/V4/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/main.c.o"
-  "/Volumes/JDT5/Projects/Learning C/ApplesAndOranges/V4/orangeset.c" "/Volumes/JDT5/Projects/Learning C/ApplesAndOranges/V4/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/orangeset.c.o"
+  "/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V4/applerange.c" "/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V4/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/applerange.c.o"
+  "/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V4/appleset.c" "/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V4/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/appleset.c.o"
+  "/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V4/main.c" "/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V4/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/main.c.o"
+  "/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V4/orangeset.c" "/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V4/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/orangeset.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 
