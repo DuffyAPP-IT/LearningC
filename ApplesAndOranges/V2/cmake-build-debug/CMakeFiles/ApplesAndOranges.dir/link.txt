@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ApplesAndOranges.dir/main.c.o CMakeFiles/ApplesAndOranges.dir/appleset.c.o CMakeFiles/ApplesAndOranges.dir/orangeset.c.o  -o ApplesAndOranges 
