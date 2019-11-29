@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/SystemUtility.dir/main.c.o CMakeFiles/SystemUtility.dir/menu.c.o  -o SystemUtility 
