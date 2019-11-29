@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug"/>
+				<Option working_dir="/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug"/>
+				<Option working_dir="/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug"/>
+				<Option working_dir="/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="SystemUtility">
-				<Option output="/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug/SystemUtility" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug"/>
+				<Option output="/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug/SystemUtility" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 SystemUtility"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 SystemUtility"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="SystemUtility/fast">
-				<Option output="/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug/SystemUtility" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug"/>
+				<Option output="/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug/SystemUtility" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,20 +73,26 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 SystemUtility/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 SystemUtility/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/SystemUtility/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Volumes/JDT5/Projects/Learning C/SystemUtility/main.c">
+		<Unit filename="/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/ifconfig.c">
 			<Option target="SystemUtility"/>
 		</Unit>
-		<Unit filename="/Volumes/JDT5/Projects/Learning C/SystemUtility/menu.c">
+		<Unit filename="/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/ls.c">
 			<Option target="SystemUtility"/>
 		</Unit>
-		<Unit filename="/Volumes/JDT5/Projects/Learning C/SystemUtility/CMakeLists.txt">
+		<Unit filename="/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/main.c">
+			<Option target="SystemUtility"/>
+		</Unit>
+		<Unit filename="/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/menu.c">
+			<Option target="SystemUtility"/>
+		</Unit>
+		<Unit filename="/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

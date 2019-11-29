@@ -1,3 +1,3 @@
-/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug/CMakeFiles/SystemUtility.dir
+/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug/CMakeFiles/SystemUtility.dir

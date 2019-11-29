@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/SystemUtility.dir/ifconfig.c.o"
+  "CMakeFiles/SystemUtility.dir/ls.c.o"
   "CMakeFiles/SystemUtility.dir/main.c.o"
   "CMakeFiles/SystemUtility.dir/menu.c.o"
   "SystemUtility"

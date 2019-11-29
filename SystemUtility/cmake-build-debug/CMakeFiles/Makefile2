@@ -44,10 +44,10 @@ RM = "/Users/jamesduffy/Library/Application Support/JetBrains/Toolbox/apps/CLion
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Volumes/JDT5/Projects/Learning C/SystemUtility"
+CMAKE_SOURCE_DIR = "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -74,14 +74,14 @@ preinstall:
 CMakeFiles/SystemUtility.dir/all:
 	$(MAKE) -f CMakeFiles/SystemUtility.dir/build.make CMakeFiles/SystemUtility.dir/depend
 	$(MAKE) -f CMakeFiles/SystemUtility.dir/build.make CMakeFiles/SystemUtility.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug/CMakeFiles" --progress-num=1,2,3 "Built target SystemUtility"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug/CMakeFiles" --progress-num=1,2,3,4,5 "Built target SystemUtility"
 .PHONY : CMakeFiles/SystemUtility.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/SystemUtility.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug/CMakeFiles" 3
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug/CMakeFiles" 5
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/SystemUtility.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/SystemUtility.dir/rule
 
 # Convenience name for target.

@@ -43,10 +43,10 @@ RM = "/Users/jamesduffy/Library/Application Support/JetBrains/Toolbox/apps/CLion
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Volumes/JDT5/Projects/Learning C/SystemUtility"
+CMAKE_SOURCE_DIR = "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/SystemUtility.dir/depend.make
@@ -59,43 +59,73 @@ include CMakeFiles/SystemUtility.dir/flags.make
 
 CMakeFiles/SystemUtility.dir/main.c.o: CMakeFiles/SystemUtility.dir/flags.make
 CMakeFiles/SystemUtility.dir/main.c.o: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/SystemUtility.dir/main.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SystemUtility.dir/main.c.o   -c "/Volumes/JDT5/Projects/Learning C/SystemUtility/main.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/SystemUtility.dir/main.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SystemUtility.dir/main.c.o   -c "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/main.c"
 
 CMakeFiles/SystemUtility.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SystemUtility.dir/main.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Volumes/JDT5/Projects/Learning C/SystemUtility/main.c" > CMakeFiles/SystemUtility.dir/main.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/main.c" > CMakeFiles/SystemUtility.dir/main.c.i
 
 CMakeFiles/SystemUtility.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SystemUtility.dir/main.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Volumes/JDT5/Projects/Learning C/SystemUtility/main.c" -o CMakeFiles/SystemUtility.dir/main.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/main.c" -o CMakeFiles/SystemUtility.dir/main.c.s
 
 CMakeFiles/SystemUtility.dir/menu.c.o: CMakeFiles/SystemUtility.dir/flags.make
 CMakeFiles/SystemUtility.dir/menu.c.o: ../menu.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/SystemUtility.dir/menu.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SystemUtility.dir/menu.c.o   -c "/Volumes/JDT5/Projects/Learning C/SystemUtility/menu.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/SystemUtility.dir/menu.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SystemUtility.dir/menu.c.o   -c "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/menu.c"
 
 CMakeFiles/SystemUtility.dir/menu.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SystemUtility.dir/menu.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Volumes/JDT5/Projects/Learning C/SystemUtility/menu.c" > CMakeFiles/SystemUtility.dir/menu.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/menu.c" > CMakeFiles/SystemUtility.dir/menu.c.i
 
 CMakeFiles/SystemUtility.dir/menu.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SystemUtility.dir/menu.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Volumes/JDT5/Projects/Learning C/SystemUtility/menu.c" -o CMakeFiles/SystemUtility.dir/menu.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/menu.c" -o CMakeFiles/SystemUtility.dir/menu.c.s
+
+CMakeFiles/SystemUtility.dir/ifconfig.c.o: CMakeFiles/SystemUtility.dir/flags.make
+CMakeFiles/SystemUtility.dir/ifconfig.c.o: ../ifconfig.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/SystemUtility.dir/ifconfig.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SystemUtility.dir/ifconfig.c.o   -c "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/ifconfig.c"
+
+CMakeFiles/SystemUtility.dir/ifconfig.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SystemUtility.dir/ifconfig.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/ifconfig.c" > CMakeFiles/SystemUtility.dir/ifconfig.c.i
+
+CMakeFiles/SystemUtility.dir/ifconfig.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SystemUtility.dir/ifconfig.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/ifconfig.c" -o CMakeFiles/SystemUtility.dir/ifconfig.c.s
+
+CMakeFiles/SystemUtility.dir/ls.c.o: CMakeFiles/SystemUtility.dir/flags.make
+CMakeFiles/SystemUtility.dir/ls.c.o: ../ls.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/SystemUtility.dir/ls.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SystemUtility.dir/ls.c.o   -c "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/ls.c"
+
+CMakeFiles/SystemUtility.dir/ls.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SystemUtility.dir/ls.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/ls.c" > CMakeFiles/SystemUtility.dir/ls.c.i
+
+CMakeFiles/SystemUtility.dir/ls.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SystemUtility.dir/ls.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/ls.c" -o CMakeFiles/SystemUtility.dir/ls.c.s
 
 # Object files for target SystemUtility
 SystemUtility_OBJECTS = \
 "CMakeFiles/SystemUtility.dir/main.c.o" \
-"CMakeFiles/SystemUtility.dir/menu.c.o"
+"CMakeFiles/SystemUtility.dir/menu.c.o" \
+"CMakeFiles/SystemUtility.dir/ifconfig.c.o" \
+"CMakeFiles/SystemUtility.dir/ls.c.o"
 
 # External object files for target SystemUtility
 SystemUtility_EXTERNAL_OBJECTS =
 
 SystemUtility: CMakeFiles/SystemUtility.dir/main.c.o
 SystemUtility: CMakeFiles/SystemUtility.dir/menu.c.o
+SystemUtility: CMakeFiles/SystemUtility.dir/ifconfig.c.o
+SystemUtility: CMakeFiles/SystemUtility.dir/ls.c.o
 SystemUtility: CMakeFiles/SystemUtility.dir/build.make
 SystemUtility: CMakeFiles/SystemUtility.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable SystemUtility"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable SystemUtility"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/SystemUtility.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -108,6 +138,6 @@ CMakeFiles/SystemUtility.dir/clean:
 .PHONY : CMakeFiles/SystemUtility.dir/clean
 
 CMakeFiles/SystemUtility.dir/depend:
-	cd "/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Volumes/JDT5/Projects/Learning C/SystemUtility" "/Volumes/JDT5/Projects/Learning C/SystemUtility" "/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug" "/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug" "/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug/CMakeFiles/SystemUtility.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility" "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility" "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug" "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug" "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug/CMakeFiles/SystemUtility.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/SystemUtility.dir/depend
 

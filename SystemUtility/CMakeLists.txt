@@ -3,4 +3,4 @@ project(SystemUtility C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(SystemUtility main.c menu.c)
+add_executable(SystemUtility main.c menu.c ifconfig.c ls.c)

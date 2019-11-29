@@ -4,8 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Volumes/JDT5/Projects/Learning C/SystemUtility/main.c" "/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug/CMakeFiles/SystemUtility.dir/main.c.o"
-  "/Volumes/JDT5/Projects/Learning C/SystemUtility/menu.c" "/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug/CMakeFiles/SystemUtility.dir/menu.c.o"
+  "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/ifconfig.c" "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug/CMakeFiles/SystemUtility.dir/ifconfig.c.o"
+  "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/ls.c" "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug/CMakeFiles/SystemUtility.dir/ls.c.o"
+  "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/main.c" "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug/CMakeFiles/SystemUtility.dir/main.c.o"
+  "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/menu.c" "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug/CMakeFiles/SystemUtility.dir/menu.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

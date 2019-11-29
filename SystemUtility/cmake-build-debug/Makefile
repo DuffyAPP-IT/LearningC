@@ -48,10 +48,10 @@ RM = "/Users/jamesduffy/Library/Application Support/JetBrains/Toolbox/apps/CLion
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Volumes/JDT5/Projects/Learning C/SystemUtility"
+CMAKE_SOURCE_DIR = "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug/CMakeFiles" "/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug/CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug/CMakeFiles" "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug/CMakeFiles/progress.marks"
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Volumes/JDT5/Projects/Learning C/SystemUtility/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Volumes/JDT5/Projects/Learning C/GithubSync/SystemUtility/cmake-build-debug/CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -122,6 +122,60 @@ SystemUtility: cmake_check_build_system
 SystemUtility/fast:
 	$(MAKE) -f CMakeFiles/SystemUtility.dir/build.make CMakeFiles/SystemUtility.dir/build
 .PHONY : SystemUtility/fast
+
+ifconfig.o: ifconfig.c.o
+
+.PHONY : ifconfig.o
+
+# target to build an object file
+ifconfig.c.o:
+	$(MAKE) -f CMakeFiles/SystemUtility.dir/build.make CMakeFiles/SystemUtility.dir/ifconfig.c.o
+.PHONY : ifconfig.c.o
+
+ifconfig.i: ifconfig.c.i
+
+.PHONY : ifconfig.i
+
+# target to preprocess a source file
+ifconfig.c.i:
+	$(MAKE) -f CMakeFiles/SystemUtility.dir/build.make CMakeFiles/SystemUtility.dir/ifconfig.c.i
+.PHONY : ifconfig.c.i
+
+ifconfig.s: ifconfig.c.s
+
+.PHONY : ifconfig.s
+
+# target to generate assembly for a file
+ifconfig.c.s:
+	$(MAKE) -f CMakeFiles/SystemUtility.dir/build.make CMakeFiles/SystemUtility.dir/ifconfig.c.s
+.PHONY : ifconfig.c.s
+
+ls.o: ls.c.o
+
+.PHONY : ls.o
+
+# target to build an object file
+ls.c.o:
+	$(MAKE) -f CMakeFiles/SystemUtility.dir/build.make CMakeFiles/SystemUtility.dir/ls.c.o
+.PHONY : ls.c.o
+
+ls.i: ls.c.i
+
+.PHONY : ls.i
+
+# target to preprocess a source file
+ls.c.i:
+	$(MAKE) -f CMakeFiles/SystemUtility.dir/build.make CMakeFiles/SystemUtility.dir/ls.c.i
+.PHONY : ls.c.i
+
+ls.s: ls.c.s
+
+.PHONY : ls.s
+
+# target to generate assembly for a file
+ls.c.s:
+	$(MAKE) -f CMakeFiles/SystemUtility.dir/build.make CMakeFiles/SystemUtility.dir/ls.c.s
+.PHONY : ls.c.s
 
 main.o: main.c.o
 
@@ -186,6 +240,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... SystemUtility"
+	@echo "... ifconfig.o"
+	@echo "... ifconfig.i"
+	@echo "... ifconfig.s"
+	@echo "... ls.o"
+	@echo "... ls.i"
+	@echo "... ls.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
