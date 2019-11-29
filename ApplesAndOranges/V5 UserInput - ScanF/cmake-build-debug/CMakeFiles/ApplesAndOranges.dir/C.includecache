@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V5 UserInput - ScanF/main.c
+stdio.h
+-
+
