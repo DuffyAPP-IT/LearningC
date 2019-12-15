@@ -1,8 +1,5 @@
 #include <stdio.h>
-
-
-
-int convert(int celcius);
+#include "header.h"
 
 
 

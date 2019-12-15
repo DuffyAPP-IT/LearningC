@@ -81,6 +81,9 @@
 		<Unit filename="/Volumes/JDT5/Projects/Learning C/GithubSync/ConvertToF/convert.c">
 			<Option target="ConvertToF"/>
 		</Unit>
+		<Unit filename="/Volumes/JDT5/Projects/Learning C/GithubSync/ConvertToF/header.h">
+			<Option target="ConvertToF"/>
+		</Unit>
 		<Unit filename="/Volumes/JDT5/Projects/Learning C/GithubSync/ConvertToF/main.c">
 			<Option target="ConvertToF"/>
 		</Unit>

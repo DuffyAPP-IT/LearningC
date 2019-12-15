@@ -3,5 +3,6 @@
 
 CMakeFiles/ConvertToF.dir/convert.c.o: ../convert.c
 
+CMakeFiles/ConvertToF.dir/main.c.o: ../header.h
 CMakeFiles/ConvertToF.dir/main.c.o: ../main.c
 

@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/JDT5/Projects/Learning C/GithubSync/ConvertToF/convert.c
+/Volumes/JDT5/Projects/Learning C/GithubSync/ConvertToF/header.h
 
 /Volumes/JDT5/Projects/Learning C/GithubSync/ConvertToF/main.c
 stdio.h
 -
+header.h
+/Volumes/JDT5/Projects/Learning C/GithubSync/ConvertToF/header.h
 
