@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V5 UserInput - ScanF/applerange.c" "/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/applerange.c.o"
-  "/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V5 UserInput - ScanF/appleset.c" "/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/appleset.c.o"
-  "/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V5 UserInput - ScanF/main.c" "/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/main.c.o"
-  "/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V5 UserInput - ScanF/orangeset.c" "/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/orangeset.c.o"
+  "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/applerange.c" "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/applerange.c.o"
+  "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/appleset.c" "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/appleset.c.o"
+  "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/main.c" "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/main.c.o"
+  "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/orangeset.c" "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/orangeset.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

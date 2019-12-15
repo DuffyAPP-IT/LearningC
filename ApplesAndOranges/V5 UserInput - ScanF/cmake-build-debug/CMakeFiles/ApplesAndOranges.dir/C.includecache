@@ -6,7 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V5 UserInput - ScanF/main.c
+/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/applerange.c
 stdio.h
 -
+
+/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/appleset.c
+
+/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/main.c
+stdio.h
+-
+
+/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/orangeset.c
 
