@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug"/>
+				<Option working_dir="/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug"/>
+				<Option working_dir="/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug"/>
+				<Option working_dir="/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ApplesAndOranges">
-				<Option output="/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/ApplesAndOranges" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug"/>
+				<Option output="/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/ApplesAndOranges" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 ApplesAndOranges"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 ApplesAndOranges"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ApplesAndOranges/fast">
-				<Option output="/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/ApplesAndOranges" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug"/>
+				<Option output="/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/ApplesAndOranges" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,26 +73,26 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 ApplesAndOranges/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/JDT5/Projects/Learning\ C/GithubSync/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 ApplesAndOranges/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5\ UserInput\ -\ ScanF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V5 UserInput - ScanF/applerange.c">
+		<Unit filename="/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/applerange.c">
 			<Option target="ApplesAndOranges"/>
 		</Unit>
-		<Unit filename="/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V5 UserInput - ScanF/appleset.c">
+		<Unit filename="/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/appleset.c">
 			<Option target="ApplesAndOranges"/>
 		</Unit>
-		<Unit filename="/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V5 UserInput - ScanF/main.c">
+		<Unit filename="/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/main.c">
 			<Option target="ApplesAndOranges"/>
 		</Unit>
-		<Unit filename="/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V5 UserInput - ScanF/orangeset.c">
+		<Unit filename="/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/orangeset.c">
 			<Option target="ApplesAndOranges"/>
 		</Unit>
-		<Unit filename="/Volumes/JDT5/Projects/Learning C/GithubSync/ApplesAndOranges/V5 UserInput - ScanF/CMakeLists.txt">
+		<Unit filename="/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
