@@ -1,0 +1,3 @@
+/Volumes/JDT5/Projects/Learning C/GithubSync/ConvertToF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/JDT5/Projects/Learning C/GithubSync/ConvertToF/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/JDT5/Projects/Learning C/GithubSync/ConvertToF/cmake-build-debug/CMakeFiles/ConvertToF.dir
