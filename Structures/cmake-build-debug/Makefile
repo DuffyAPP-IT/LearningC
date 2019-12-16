@@ -48,10 +48,10 @@ RM = "/Users/jamesduffy/Library/Application Support/JetBrains/Toolbox/apps/CLion
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Volumes/JDT5/Projects/Learning C/GithubSync/Structures"
+CMAKE_SOURCE_DIR = /Users/jamesduffy/Documents/GitHub/LearningC/Structures
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Volumes/JDT5/Projects/Learning C/GithubSync/Structures/cmake-build-debug"
+CMAKE_BINARY_DIR = /Users/jamesduffy/Documents/GitHub/LearningC/Structures/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Volumes/JDT5/Projects/Learning C/GithubSync/Structures/cmake-build-debug/CMakeFiles" "/Volumes/JDT5/Projects/Learning C/GithubSync/Structures/cmake-build-debug/CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jamesduffy/Documents/GitHub/LearningC/Structures/cmake-build-debug/CMakeFiles /Users/jamesduffy/Documents/GitHub/LearningC/Structures/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Volumes/JDT5/Projects/Learning C/GithubSync/Structures/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jamesduffy/Documents/GitHub/LearningC/Structures/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -123,6 +123,33 @@ Structures/fast:
 	$(MAKE) -f CMakeFiles/Structures.dir/build.make CMakeFiles/Structures.dir/build
 .PHONY : Structures/fast
 
+func1.o: func1.c.o
+
+.PHONY : func1.o
+
+# target to build an object file
+func1.c.o:
+	$(MAKE) -f CMakeFiles/Structures.dir/build.make CMakeFiles/Structures.dir/func1.c.o
+.PHONY : func1.c.o
+
+func1.i: func1.c.i
+
+.PHONY : func1.i
+
+# target to preprocess a source file
+func1.c.i:
+	$(MAKE) -f CMakeFiles/Structures.dir/build.make CMakeFiles/Structures.dir/func1.c.i
+.PHONY : func1.c.i
+
+func1.s: func1.c.s
+
+.PHONY : func1.s
+
+# target to generate assembly for a file
+func1.c.s:
+	$(MAKE) -f CMakeFiles/Structures.dir/build.make CMakeFiles/Structures.dir/func1.c.s
+.PHONY : func1.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Structures"
+	@echo "... func1.o"
+	@echo "... func1.i"
+	@echo "... func1.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Structures.dir/func1.c.o"
   "CMakeFiles/Structures.dir/main.c.o"
   "Structures"
   "Structures.pdb"

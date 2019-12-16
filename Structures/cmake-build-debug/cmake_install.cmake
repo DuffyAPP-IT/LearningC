@@ -1,4 +1,4 @@
-# Install script for directory: /Volumes/JDT5/Projects/Learning C/GithubSync/Structures
+# Install script for directory: /Users/jamesduffy/Documents/GitHub/LearningC/Structures
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Volumes/JDT5/Projects/Learning C/GithubSync/Structures/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/jamesduffy/Documents/GitHub/LearningC/Structures/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

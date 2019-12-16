@@ -43,10 +43,10 @@ RM = "/Users/jamesduffy/Library/Application Support/JetBrains/Toolbox/apps/CLion
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Volumes/JDT5/Projects/Learning C/GithubSync/Structures"
+CMAKE_SOURCE_DIR = /Users/jamesduffy/Documents/GitHub/LearningC/Structures
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Volumes/JDT5/Projects/Learning C/GithubSync/Structures/cmake-build-debug"
+CMAKE_BINARY_DIR = /Users/jamesduffy/Documents/GitHub/LearningC/Structures/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Structures.dir/depend.make
@@ -59,28 +59,43 @@ include CMakeFiles/Structures.dir/flags.make
 
 CMakeFiles/Structures.dir/main.c.o: CMakeFiles/Structures.dir/flags.make
 CMakeFiles/Structures.dir/main.c.o: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Volumes/JDT5/Projects/Learning C/GithubSync/Structures/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Structures.dir/main.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Structures.dir/main.c.o   -c "/Volumes/JDT5/Projects/Learning C/GithubSync/Structures/main.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jamesduffy/Documents/GitHub/LearningC/Structures/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Structures.dir/main.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Structures.dir/main.c.o   -c /Users/jamesduffy/Documents/GitHub/LearningC/Structures/main.c
 
 CMakeFiles/Structures.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Structures.dir/main.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Volumes/JDT5/Projects/Learning C/GithubSync/Structures/main.c" > CMakeFiles/Structures.dir/main.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jamesduffy/Documents/GitHub/LearningC/Structures/main.c > CMakeFiles/Structures.dir/main.c.i
 
 CMakeFiles/Structures.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Structures.dir/main.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Volumes/JDT5/Projects/Learning C/GithubSync/Structures/main.c" -o CMakeFiles/Structures.dir/main.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jamesduffy/Documents/GitHub/LearningC/Structures/main.c -o CMakeFiles/Structures.dir/main.c.s
+
+CMakeFiles/Structures.dir/func1.c.o: CMakeFiles/Structures.dir/flags.make
+CMakeFiles/Structures.dir/func1.c.o: ../func1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jamesduffy/Documents/GitHub/LearningC/Structures/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Structures.dir/func1.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Structures.dir/func1.c.o   -c /Users/jamesduffy/Documents/GitHub/LearningC/Structures/func1.c
+
+CMakeFiles/Structures.dir/func1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Structures.dir/func1.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jamesduffy/Documents/GitHub/LearningC/Structures/func1.c > CMakeFiles/Structures.dir/func1.c.i
+
+CMakeFiles/Structures.dir/func1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Structures.dir/func1.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jamesduffy/Documents/GitHub/LearningC/Structures/func1.c -o CMakeFiles/Structures.dir/func1.c.s
 
 # Object files for target Structures
 Structures_OBJECTS = \
-"CMakeFiles/Structures.dir/main.c.o"
+"CMakeFiles/Structures.dir/main.c.o" \
+"CMakeFiles/Structures.dir/func1.c.o"
 
 # External object files for target Structures
 Structures_EXTERNAL_OBJECTS =
 
 Structures: CMakeFiles/Structures.dir/main.c.o
+Structures: CMakeFiles/Structures.dir/func1.c.o
 Structures: CMakeFiles/Structures.dir/build.make
 Structures: CMakeFiles/Structures.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Volumes/JDT5/Projects/Learning C/GithubSync/Structures/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable Structures"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jamesduffy/Documents/GitHub/LearningC/Structures/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable Structures"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Structures.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -93,6 +108,6 @@ CMakeFiles/Structures.dir/clean:
 .PHONY : CMakeFiles/Structures.dir/clean
 
 CMakeFiles/Structures.dir/depend:
-	cd "/Volumes/JDT5/Projects/Learning C/GithubSync/Structures/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Volumes/JDT5/Projects/Learning C/GithubSync/Structures" "/Volumes/JDT5/Projects/Learning C/GithubSync/Structures" "/Volumes/JDT5/Projects/Learning C/GithubSync/Structures/cmake-build-debug" "/Volumes/JDT5/Projects/Learning C/GithubSync/Structures/cmake-build-debug" "/Volumes/JDT5/Projects/Learning C/GithubSync/Structures/cmake-build-debug/CMakeFiles/Structures.dir/DependInfo.cmake" --color=$(COLOR)
+	cd /Users/jamesduffy/Documents/GitHub/LearningC/Structures/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/jamesduffy/Documents/GitHub/LearningC/Structures /Users/jamesduffy/Documents/GitHub/LearningC/Structures /Users/jamesduffy/Documents/GitHub/LearningC/Structures/cmake-build-debug /Users/jamesduffy/Documents/GitHub/LearningC/Structures/cmake-build-debug /Users/jamesduffy/Documents/GitHub/LearningC/Structures/cmake-build-debug/CMakeFiles/Structures.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Structures.dir/depend
 

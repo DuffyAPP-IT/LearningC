@@ -4,7 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Volumes/JDT5/Projects/Learning C/GithubSync/Structures/main.c" "/Volumes/JDT5/Projects/Learning C/GithubSync/Structures/cmake-build-debug/CMakeFiles/Structures.dir/main.c.o"
+  "/Users/jamesduffy/Documents/GitHub/LearningC/Structures/func1.c" "/Users/jamesduffy/Documents/GitHub/LearningC/Structures/cmake-build-debug/CMakeFiles/Structures.dir/func1.c.o"
+  "/Users/jamesduffy/Documents/GitHub/LearningC/Structures/main.c" "/Users/jamesduffy/Documents/GitHub/LearningC/Structures/cmake-build-debug/CMakeFiles/Structures.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

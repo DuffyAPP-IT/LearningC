@@ -3,4 +3,4 @@ project(Structures C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Structures main.c)
+add_executable(Structures main.c func1.c header.h)
