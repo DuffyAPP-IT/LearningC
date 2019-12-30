@@ -19,6 +19,7 @@ typedef struct Colour {
 }Colour;
 
 int main() {
+
     Pixels pixel1 = {
             20,
             50,
@@ -48,4 +49,12 @@ int main() {
     printf("Pixel Struct Size %d\n", (int) sizeof(Pixels));
     //The above code is used to demonstrate the size of each variable in bytes.
 
+
+    Title("Extra Tests...");
+    char * usethis = "Welcome";
+    int input = 1;
+    for(int x=0; x<10; x++){
+        scanf("%s", &usethis);
+        printf("%s", usethis);
+    }
 }

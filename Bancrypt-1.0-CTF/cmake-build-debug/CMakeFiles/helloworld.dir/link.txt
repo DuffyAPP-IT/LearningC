@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/helloworld.dir/main.c.o CMakeFiles/helloworld.dir/eval.c.o CMakeFiles/helloworld.dir/decode.c.o CMakeFiles/helloworld.dir/checkr.c.o CMakeFiles/helloworld.dir/checkr0.c.o  -o helloworld 
