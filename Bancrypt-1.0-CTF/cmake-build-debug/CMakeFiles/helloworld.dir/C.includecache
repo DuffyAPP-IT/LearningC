@@ -6,7 +6,23 @@
 
 #IncludeRegexTransform: 
 
-/Users/jamesduffy/Downloads/Archive/checkr0.c
+/Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/checkr.c
+stdio.h
+-
+
+/Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/checkr0.c
+stdio.h
+-
+
+/Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/decode.c
+stdio.h
+-
+
+/Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/eval.c
+stdio.h
+-
+
+/Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/main.c
 stdio.h
 -
 
