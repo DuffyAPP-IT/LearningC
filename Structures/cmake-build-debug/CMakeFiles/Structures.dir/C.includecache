@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/jamesduffy/Documents/GitHub/LearningC/Structures/func1.c
+/Users/jamesduffy/Documents/GitHub/LearningC/Structures/header.h
+
+/Users/jamesduffy/Documents/GitHub/LearningC/Structures/main.c
 stdio.h
 -
+header.h
+/Users/jamesduffy/Documents/GitHub/LearningC/Structures/header.h
 

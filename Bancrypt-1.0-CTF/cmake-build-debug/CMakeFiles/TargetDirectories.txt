@@ -1,0 +1,3 @@
+/Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/helloworld.dir
