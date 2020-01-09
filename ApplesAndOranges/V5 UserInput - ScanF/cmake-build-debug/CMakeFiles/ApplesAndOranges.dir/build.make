@@ -34,19 +34,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = "/Users/jamesduffy/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/CLion.app/Contents/bin/cmake/mac/bin/cmake"
+CMAKE_COMMAND = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake
 
 # The command to remove a file.
-RM = "/Users/jamesduffy/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E remove -f
+RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF"
+CMAKE_SOURCE_DIR = "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ApplesAndOranges.dir/depend.make
@@ -59,55 +59,55 @@ include CMakeFiles/ApplesAndOranges.dir/flags.make
 
 CMakeFiles/ApplesAndOranges.dir/main.c.o: CMakeFiles/ApplesAndOranges.dir/flags.make
 CMakeFiles/ApplesAndOranges.dir/main.c.o: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ApplesAndOranges.dir/main.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ApplesAndOranges.dir/main.c.o   -c "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/main.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ApplesAndOranges.dir/main.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ApplesAndOranges.dir/main.c.o   -c "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/main.c"
 
 CMakeFiles/ApplesAndOranges.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ApplesAndOranges.dir/main.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/main.c" > CMakeFiles/ApplesAndOranges.dir/main.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/main.c" > CMakeFiles/ApplesAndOranges.dir/main.c.i
 
 CMakeFiles/ApplesAndOranges.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ApplesAndOranges.dir/main.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/main.c" -o CMakeFiles/ApplesAndOranges.dir/main.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/main.c" -o CMakeFiles/ApplesAndOranges.dir/main.c.s
 
 CMakeFiles/ApplesAndOranges.dir/appleset.c.o: CMakeFiles/ApplesAndOranges.dir/flags.make
 CMakeFiles/ApplesAndOranges.dir/appleset.c.o: ../appleset.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/ApplesAndOranges.dir/appleset.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ApplesAndOranges.dir/appleset.c.o   -c "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/appleset.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/ApplesAndOranges.dir/appleset.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ApplesAndOranges.dir/appleset.c.o   -c "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/appleset.c"
 
 CMakeFiles/ApplesAndOranges.dir/appleset.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ApplesAndOranges.dir/appleset.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/appleset.c" > CMakeFiles/ApplesAndOranges.dir/appleset.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/appleset.c" > CMakeFiles/ApplesAndOranges.dir/appleset.c.i
 
 CMakeFiles/ApplesAndOranges.dir/appleset.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ApplesAndOranges.dir/appleset.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/appleset.c" -o CMakeFiles/ApplesAndOranges.dir/appleset.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/appleset.c" -o CMakeFiles/ApplesAndOranges.dir/appleset.c.s
 
 CMakeFiles/ApplesAndOranges.dir/orangeset.c.o: CMakeFiles/ApplesAndOranges.dir/flags.make
 CMakeFiles/ApplesAndOranges.dir/orangeset.c.o: ../orangeset.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/ApplesAndOranges.dir/orangeset.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ApplesAndOranges.dir/orangeset.c.o   -c "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/orangeset.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/ApplesAndOranges.dir/orangeset.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ApplesAndOranges.dir/orangeset.c.o   -c "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/orangeset.c"
 
 CMakeFiles/ApplesAndOranges.dir/orangeset.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ApplesAndOranges.dir/orangeset.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/orangeset.c" > CMakeFiles/ApplesAndOranges.dir/orangeset.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/orangeset.c" > CMakeFiles/ApplesAndOranges.dir/orangeset.c.i
 
 CMakeFiles/ApplesAndOranges.dir/orangeset.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ApplesAndOranges.dir/orangeset.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/orangeset.c" -o CMakeFiles/ApplesAndOranges.dir/orangeset.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/orangeset.c" -o CMakeFiles/ApplesAndOranges.dir/orangeset.c.s
 
 CMakeFiles/ApplesAndOranges.dir/applerange.c.o: CMakeFiles/ApplesAndOranges.dir/flags.make
 CMakeFiles/ApplesAndOranges.dir/applerange.c.o: ../applerange.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/ApplesAndOranges.dir/applerange.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ApplesAndOranges.dir/applerange.c.o   -c "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/applerange.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/ApplesAndOranges.dir/applerange.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ApplesAndOranges.dir/applerange.c.o   -c "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/applerange.c"
 
 CMakeFiles/ApplesAndOranges.dir/applerange.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ApplesAndOranges.dir/applerange.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/applerange.c" > CMakeFiles/ApplesAndOranges.dir/applerange.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/applerange.c" > CMakeFiles/ApplesAndOranges.dir/applerange.c.i
 
 CMakeFiles/ApplesAndOranges.dir/applerange.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ApplesAndOranges.dir/applerange.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/applerange.c" -o CMakeFiles/ApplesAndOranges.dir/applerange.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/applerange.c" -o CMakeFiles/ApplesAndOranges.dir/applerange.c.s
 
 # Object files for target ApplesAndOranges
 ApplesAndOranges_OBJECTS = \
@@ -125,7 +125,7 @@ ApplesAndOranges: CMakeFiles/ApplesAndOranges.dir/orangeset.c.o
 ApplesAndOranges: CMakeFiles/ApplesAndOranges.dir/applerange.c.o
 ApplesAndOranges: CMakeFiles/ApplesAndOranges.dir/build.make
 ApplesAndOranges: CMakeFiles/ApplesAndOranges.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable ApplesAndOranges"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable ApplesAndOranges"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ApplesAndOranges.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -138,6 +138,6 @@ CMakeFiles/ApplesAndOranges.dir/clean:
 .PHONY : CMakeFiles/ApplesAndOranges.dir/clean
 
 CMakeFiles/ApplesAndOranges.dir/depend:
-	cd "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF" "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF" "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug" "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug" "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF" "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF" "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug" "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug" "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/ApplesAndOranges.dir/depend
 

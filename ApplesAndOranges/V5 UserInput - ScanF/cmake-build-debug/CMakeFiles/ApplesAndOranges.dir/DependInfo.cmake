@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/applerange.c" "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/applerange.c.o"
-  "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/appleset.c" "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/appleset.c.o"
-  "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/main.c" "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/main.c.o"
-  "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/orangeset.c" "/Users/jamesduffy/Documents/GitHub/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/orangeset.c.o"
+  "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/applerange.c" "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/applerange.c.o"
+  "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/appleset.c" "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/appleset.c.o"
+  "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/main.c" "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/main.c.o"
+  "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/orangeset.c" "/Volumes/Data/LC/LearningC/ApplesAndOranges/V5 UserInput - ScanF/cmake-build-debug/CMakeFiles/ApplesAndOranges.dir/orangeset.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 
