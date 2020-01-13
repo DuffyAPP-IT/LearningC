@@ -1,4 +1,4 @@
-# Install script for directory: /Volumes/JDT5/Projects/Learning C/PointersAndArrays
+# Install script for directory: /Volumes/Data/GitHub/LearningC/PointersAndArrays
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Volumes/JDT5/Projects/Learning C/PointersAndArrays/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Volumes/Data/GitHub/LearningC/PointersAndArrays/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

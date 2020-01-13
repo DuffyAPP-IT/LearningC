@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF
+CMAKE_SOURCE_DIR = /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug
+CMAKE_BINARY_DIR = /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/helloworld.dir/depend.make
@@ -59,68 +59,68 @@ include CMakeFiles/helloworld.dir/flags.make
 
 CMakeFiles/helloworld.dir/main.c.o: CMakeFiles/helloworld.dir/flags.make
 CMakeFiles/helloworld.dir/main.c.o: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/helloworld.dir/main.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/helloworld.dir/main.c.o   -c /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/helloworld.dir/main.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/helloworld.dir/main.c.o   -c /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/main.c
 
 CMakeFiles/helloworld.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/helloworld.dir/main.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/main.c > CMakeFiles/helloworld.dir/main.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/main.c > CMakeFiles/helloworld.dir/main.c.i
 
 CMakeFiles/helloworld.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/helloworld.dir/main.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/main.c -o CMakeFiles/helloworld.dir/main.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/main.c -o CMakeFiles/helloworld.dir/main.c.s
 
 CMakeFiles/helloworld.dir/eval.c.o: CMakeFiles/helloworld.dir/flags.make
 CMakeFiles/helloworld.dir/eval.c.o: ../eval.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/helloworld.dir/eval.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/helloworld.dir/eval.c.o   -c /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/eval.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/helloworld.dir/eval.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/helloworld.dir/eval.c.o   -c /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/eval.c
 
 CMakeFiles/helloworld.dir/eval.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/helloworld.dir/eval.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/eval.c > CMakeFiles/helloworld.dir/eval.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/eval.c > CMakeFiles/helloworld.dir/eval.c.i
 
 CMakeFiles/helloworld.dir/eval.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/helloworld.dir/eval.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/eval.c -o CMakeFiles/helloworld.dir/eval.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/eval.c -o CMakeFiles/helloworld.dir/eval.c.s
 
 CMakeFiles/helloworld.dir/decode.c.o: CMakeFiles/helloworld.dir/flags.make
 CMakeFiles/helloworld.dir/decode.c.o: ../decode.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/helloworld.dir/decode.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/helloworld.dir/decode.c.o   -c /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/decode.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/helloworld.dir/decode.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/helloworld.dir/decode.c.o   -c /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/decode.c
 
 CMakeFiles/helloworld.dir/decode.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/helloworld.dir/decode.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/decode.c > CMakeFiles/helloworld.dir/decode.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/decode.c > CMakeFiles/helloworld.dir/decode.c.i
 
 CMakeFiles/helloworld.dir/decode.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/helloworld.dir/decode.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/decode.c -o CMakeFiles/helloworld.dir/decode.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/decode.c -o CMakeFiles/helloworld.dir/decode.c.s
 
 CMakeFiles/helloworld.dir/checkr.c.o: CMakeFiles/helloworld.dir/flags.make
 CMakeFiles/helloworld.dir/checkr.c.o: ../checkr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/helloworld.dir/checkr.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/helloworld.dir/checkr.c.o   -c /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/checkr.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/helloworld.dir/checkr.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/helloworld.dir/checkr.c.o   -c /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/checkr.c
 
 CMakeFiles/helloworld.dir/checkr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/helloworld.dir/checkr.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/checkr.c > CMakeFiles/helloworld.dir/checkr.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/checkr.c > CMakeFiles/helloworld.dir/checkr.c.i
 
 CMakeFiles/helloworld.dir/checkr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/helloworld.dir/checkr.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/checkr.c -o CMakeFiles/helloworld.dir/checkr.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/checkr.c -o CMakeFiles/helloworld.dir/checkr.c.s
 
 CMakeFiles/helloworld.dir/checkr0.c.o: CMakeFiles/helloworld.dir/flags.make
 CMakeFiles/helloworld.dir/checkr0.c.o: ../checkr0.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/helloworld.dir/checkr0.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/helloworld.dir/checkr0.c.o   -c /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/checkr0.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/helloworld.dir/checkr0.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/helloworld.dir/checkr0.c.o   -c /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/checkr0.c
 
 CMakeFiles/helloworld.dir/checkr0.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/helloworld.dir/checkr0.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/checkr0.c > CMakeFiles/helloworld.dir/checkr0.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/checkr0.c > CMakeFiles/helloworld.dir/checkr0.c.i
 
 CMakeFiles/helloworld.dir/checkr0.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/helloworld.dir/checkr0.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/checkr0.c -o CMakeFiles/helloworld.dir/checkr0.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/checkr0.c -o CMakeFiles/helloworld.dir/checkr0.c.s
 
 # Object files for target helloworld
 helloworld_OBJECTS = \
@@ -140,7 +140,7 @@ helloworld: CMakeFiles/helloworld.dir/checkr.c.o
 helloworld: CMakeFiles/helloworld.dir/checkr0.c.o
 helloworld: CMakeFiles/helloworld.dir/build.make
 helloworld: CMakeFiles/helloworld.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable helloworld"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable helloworld"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/helloworld.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -153,6 +153,6 @@ CMakeFiles/helloworld.dir/clean:
 .PHONY : CMakeFiles/helloworld.dir/clean
 
 CMakeFiles/helloworld.dir/depend:
-	cd /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/helloworld.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/helloworld.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/helloworld.dir/depend
 

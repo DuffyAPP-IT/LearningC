@@ -1,5 +1,5 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF
--- The C compiler identification is AppleClang 9.0.0.9000039
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF
+-- The C compiler identification is AppleClang 10.0.0.10001044
 -- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc
 -- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc -- works
 -- Detecting C compiler ABI info
@@ -8,4 +8,4 @@
 -- Detecting C compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug
+-- Build files have been written to: /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug

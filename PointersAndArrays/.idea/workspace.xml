@@ -11,8 +11,54 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4748598-72f3-43d8-9ad6-f2d70e27acdf" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="d4748598-72f3-43d8-9ad6-f2d70e27acdf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/helloworld.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/helloworld.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/helloworld.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/helloworld.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/helloworld.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/helloworld.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/helloworld.dir/checkr.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/helloworld.dir/checkr.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/helloworld.dir/checkr0.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/helloworld.dir/checkr0.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/helloworld.dir/decode.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/helloworld.dir/decode.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/helloworld.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/helloworld.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/helloworld.dir/eval.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/helloworld.dir/eval.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/helloworld.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles/helloworld.dir/main.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/helloworld" beforeDir="false" afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/helloworld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/helloworld.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../Bancrypt-1.0-CTF/cmake-build-debug/helloworld.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PointersAndArrays.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PointersAndArrays.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PointersAndArrays.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PointersAndArrays.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PointersAndArrays.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PointersAndArrays.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PointersAndArrays.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PointersAndArrays.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PointersAndArrays.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PointersAndArrays.dir/main.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/PointersAndArrays" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/PointersAndArrays" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/PointersAndArrays.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/PointersAndArrays.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,22 +68,20 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1U13nmXgZEIvUCKsefxNDCGLPrZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="PointersAndArrays" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PointersAndArrays" TARGET_NAME="PointersAndArrays" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PointersAndArrays" RUN_TARGET_NAME="PointersAndArrays">
@@ -45,6 +89,18 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -59,10 +115,34 @@
       <workItem from="1574510444766" duration="911000" />
       <workItem from="1574512350606" duration="178000" />
       <workItem from="1574514547417" duration="488000" />
+      <workItem from="1578740283643" duration="248000" />
+      <workItem from="1578931466843" duration="15000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1578785873198">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1578785873198" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1578785873197">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1578785873197" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1578785873197">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1578785873197" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1578785873197">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1578785873197" />
+    <state x="616" y="374" key="com.intellij.ide.util.TipDialog" timestamp="1578931467547">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="374" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578931467546" />
   </component>
 </project>

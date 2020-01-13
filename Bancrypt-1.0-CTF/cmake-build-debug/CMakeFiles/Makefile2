@@ -44,10 +44,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF
+CMAKE_SOURCE_DIR = /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug
+CMAKE_BINARY_DIR = /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -74,14 +74,14 @@ preinstall:
 CMakeFiles/helloworld.dir/all:
 	$(MAKE) -f CMakeFiles/helloworld.dir/build.make CMakeFiles/helloworld.dir/depend
 	$(MAKE) -f CMakeFiles/helloworld.dir/build.make CMakeFiles/helloworld.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6 "Built target helloworld"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6 "Built target helloworld"
 .PHONY : CMakeFiles/helloworld.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/helloworld.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/helloworld.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jamesduffy/Documents/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/Data/GitHub/LearningC/Bancrypt-1.0-CTF/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/helloworld.dir/rule
 
 # Convenience name for target.
