@@ -6,9 +6,9 @@ void parentchild(){
 	int i;
 	int xnum = 50;
 	int tnum = 20;
-	int x = 500000;
+	int x;
 //	printf("Process Type,Run,TNUMVal,XNUMVal");
-//	scanf("%d", &x);
+	scanf("%d", &x);
 	if (fork()){
 		for (int i=0;i<x;i++) {
 //			printf("\n**		Parent Process	%d \n", i);
