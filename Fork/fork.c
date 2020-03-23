@@ -1,6 +1,5 @@
 
 
-
 #include <stdio.h>
 
 void parentchild(){
@@ -20,7 +19,7 @@ void parentchild(){
 			printf("P,%d,%d,%d\n",i,tnum,xnum);
 		}
 		
-
+	}
 		
 	else{
 		for (int i=0;i<x;i++) {
